@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Mobile App Developer 
 --------------------  
-Senior Mobile App Developer specialized in front end development. Experienced with all stages of the development cycle for dynamic mobile app projects. Well-versed in numerous programming languages including React-Native, Reactjs, Nextjs, HTML5, JavaScript, CSS. Strong background in project management and customer relations.  * 🌍  I'm based in Lebanon * ✉️  You can contact me at [ameen\_mattar@live.com](mailto:ameen_mattar@live.com)
+Senior Mobile App Developer specialized in front end development. Experienced with all stages of the development cycle for dynamic mobile app projects. Well-versed in numerous programming languages including React-Native, Reactjs, Nextjs, HTML5, JavaScript, CSS. Strong background in project management and customer relations.  
+* 🌍  I'm based in Lebanon 
+* ✉️  You can contact me at [ameen\_mattar@live.com](mailto:ameen_mattar@live.com)
 
 ### Skills  
 
