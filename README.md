@@ -24,7 +24,6 @@ Senior Mobile App Developer specialized in front end development. Experienced wi
 <a href="https://github.com/ameenmattar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenmattar&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br />
 [![Visits Badge](https://badges.strrl.dev/visits/ameenmattar/ameenmattar)](https://badges.strrl.dev)
-https://badges.strrl.dev/visits/${ameenmattar}/${ameenmattar}
 
 ### Support Me
 
