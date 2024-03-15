@@ -6,6 +6,7 @@ Mobile App Developer
 Senior Mobile App Developer specialized in front end development. Experienced with all stages of the development cycle for dynamic mobile app projects. Well-versed in numerous programming languages including React-Native, Reactjs, Nextjs, HTML5, JavaScript, CSS. Strong background in project management and customer relations.  
 * 🌍  I'm based in Beirut,Lebanon 🇱🇧
 * ✉️  You can contact me at [ameen\_mattar@live.com](mailto:ameen_mattar@live.com)
+* ✉️  You can check my website [ameenmattar.com](https://www.ameenmattar.com)
 
 ### Skills  
 
